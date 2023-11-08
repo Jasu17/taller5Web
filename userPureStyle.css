@@ -1,0 +1,18 @@
+#formulario, #secciongustos{
+    display: flex;
+    justify-content: center;
+    height: inherit;
+    margin: 0;
+}
+h1, p, h2{
+    display: flex;
+    justify-content: center;
+}
+#boton{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(113, 179, 255);
+}
